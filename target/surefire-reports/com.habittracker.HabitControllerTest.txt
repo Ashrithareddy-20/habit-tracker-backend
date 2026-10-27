@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.habittracker.HabitControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.998 s -- in com.habittracker.HabitControllerTest
